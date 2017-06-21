@@ -1,0 +1,10 @@
+recursive-include docs *.rst *.py Makefile
+recursive-include docs/media *
+recursive-include docs/gallery *
+recursive-include fluxcompensator/tests *
+include *.txt
+include *.rtout
+include *.fits
+include LICENSE
+include CHANGES.rst
+include README.md
