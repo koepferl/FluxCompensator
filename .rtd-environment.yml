@@ -1,0 +1,13 @@
+name: fluxcompensator
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - astropy
+  - matplotlib
+  - scipy
+  - pytest
+  - hyperion
+  - ipython
