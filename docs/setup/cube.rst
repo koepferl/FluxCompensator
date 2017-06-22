@@ -19,7 +19,8 @@ To start with a `3D image group <http://docs.hyperion-rt.org/en/stable/setup/set
 
 Now your image (from image ``group=0`` starting from 0, which contains an image in this example) is scaled to ``300 pc`` in units of ``'ergs/cm^2/s'``. For further details see `ModelOutput <http://docs.hyperion-rt.org/en/stable/postprocessing/extracting_observables.html>`_.
 
-.. seealso:: You can download an example output (density input from `Dale et al. 2012 <http://adsabs.harvard.edu/abs/2012MNRAS.424..377D>`_)  from here: :download:`hyperion_output.rtout <../../fluxcompensator/tests/hyperion_output.rtout>`
+.. seealso:: You can download an example output (density input from `Dale et al. 2012 <http://adsabs.harvard.edu/abs/2012MNRAS.424..377D>`_)  from here: ``../../fluxcompensator/tests/hyperion_output.rtout``
+.. :download:`hyperion_output.rtout <../../fluxcompensator/tests/hyperion_output.rtout>`
 
 To start with the FluxCompensator class :class:`~fluxcompensator.cube.SyntheticCube`, you simlpy write::
 
