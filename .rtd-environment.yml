@@ -5,4 +5,9 @@ channels:
 
 dependencies:
   - python
+  - astropy
+  - matplotlib
+  - scipy
+  - pytest
   - hyperion
+  - ipython
