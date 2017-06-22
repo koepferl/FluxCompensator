@@ -27,8 +27,8 @@ import os
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ['sphinx.ext.autosummary', 'sphinx.ext.autodoc',
-              'hyperion.sphinx.ext.numpydoc', 'sphinx.ext.pngmath',
-              'sphinx.ext.intersphinx', 'sphinx.ext.mathjax']
+              'sphinx.ext.pngmath',
+              'sphinx.ext.intersphinx', 'sphinx.ext.mathjax'] #'hyperion.sphinx.ext.numpydoc', 
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
