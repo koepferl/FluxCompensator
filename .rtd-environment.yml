@@ -1,0 +1,8 @@
+name: fluxcompensator
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - hyperion
